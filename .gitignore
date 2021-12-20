@@ -3,3 +3,4 @@ venv/
 __pycache__/
 docker_files/mongodb/docker-compose.yml
 .env
+db_dump/
